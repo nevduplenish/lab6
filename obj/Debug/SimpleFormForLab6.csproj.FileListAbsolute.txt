@@ -1,0 +1,10 @@
+D:\Projects\SimpleFormForLab6\bin\Debug\SimpleFormForLab6.exe.config
+D:\Projects\SimpleFormForLab6\bin\Debug\SimpleFormForLab6.exe
+D:\Projects\SimpleFormForLab6\bin\Debug\SimpleFormForLab6.pdb
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.csproj.AssemblyReference.cache
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.Form1.resources
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.Properties.Resources.resources
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.csproj.GenerateResource.cache
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.csproj.CoreCompileInputs.cache
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.exe
+D:\Projects\SimpleFormForLab6\obj\Debug\SimpleFormForLab6.pdb
